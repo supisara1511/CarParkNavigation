@@ -6,8 +6,8 @@
         tools:context="buu.informatics.s59160134.carpark.LoginFragment">
 
     <data>
-
-
+        <variable name="car" type="buu.informatics.s59160134.carpark.Car"/>
+        <variable name="cars" type="buu.informatics.s59160134.carpark.Car[]"/>
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
